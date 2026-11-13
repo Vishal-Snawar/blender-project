@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "ai_rig_addon"
+version = "0.1.0"
+name = "AI Base-Mesh & Rig Generator"
+tagline = "Generate low-poly base meshes and rigs from text prompts"
+maintainer = "Student Name"
+type = "add-on"
+
+# Minimum Blender version supporting blender_manifest.toml Extensions
+blender_version_min = "4.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Modeling", "Animation", "Add Mesh"]
